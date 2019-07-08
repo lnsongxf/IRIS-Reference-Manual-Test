@@ -4,6 +4,10 @@ description: Nested Page 1 Description
 
 # Nested Page 1
 
+## Heading 1
+
+### Heading 2
+
 {% hint style="info" %}
 My hint
 {% endhint %}
