@@ -4,7 +4,7 @@ Table
 
 | Function Name | Description |
 | :--- | :--- |
-| [simulate](nested-nested-page-1.md#simulate) | Simulate model |
+| [simulate](nested-nested-page-1#simulate) | Simulate model |
 
 lkasjdfl;akjsdlfa;
 
