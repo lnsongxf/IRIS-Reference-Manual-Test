@@ -14,7 +14,7 @@ My hint
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a super `hero=1` is $$\alpha$$ a fairly straight forward process:
 
 ```
 $ give me super-powers
