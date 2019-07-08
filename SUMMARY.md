@@ -7,3 +7,7 @@
 * [Page 2](page-2/README.md)
   * [Nested Page 2](page-2/nested-page-2.md)
 
+## Distributions
+
+* [Gamma](distributions/gamma.md)
+

@@ -1,0 +1,6 @@
+---
+description: Gamma distribution
+---
+
+# Gamma
+
